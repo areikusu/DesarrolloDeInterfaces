@@ -4,5 +4,9 @@
     <string name="app_name">Ejemplo3</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="arriba">ARRIBA</string>
+    <string name="medio">MEDIO</string>
+    <string name="abajo">ABAJO</string>
+    <string name="pulsado">¡PULSADO!</string>
 
 </resources>
